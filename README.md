@@ -1,6 +1,6 @@
 # Tibetan-Classification
 
-ShareLatex URL:https://www.sharelatex.com/project/588b6fab6e5de4073270d757
+ShareLatex URL: Private
 
 Classifier_v_0是文本分类主程序（title分类文件类似）
 
